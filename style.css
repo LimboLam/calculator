@@ -1,0 +1,12 @@
+#inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    max-width: 45vw;
+}
+#button{
+    height: 5vh;
+}
